@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/hacker-test-snax/static/css/main.d1b05096.chunk.css",
+    "main.js": "/hacker-test-snax/static/js/main.dd474443.chunk.js",
+    "main.js.map": "/hacker-test-snax/static/js/main.dd474443.chunk.js.map",
+    "runtime-main.js": "/hacker-test-snax/static/js/runtime-main.9e74d759.js",
+    "runtime-main.js.map": "/hacker-test-snax/static/js/runtime-main.9e74d759.js.map",
+    "static/js/2.43065643.chunk.js": "/hacker-test-snax/static/js/2.43065643.chunk.js",
+    "static/js/2.43065643.chunk.js.map": "/hacker-test-snax/static/js/2.43065643.chunk.js.map",
+    "index.html": "/hacker-test-snax/index.html",
+    "precache-manifest.4a79d6f5065a4697331a7f8c9f742c41.js": "/hacker-test-snax/precache-manifest.4a79d6f5065a4697331a7f8c9f742c41.js",
+    "service-worker.js": "/hacker-test-snax/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/hacker-test-snax/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.43065643.chunk.js.LICENSE.txt": "/hacker-test-snax/static/js/2.43065643.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9e74d759.js",
+    "static/js/2.43065643.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.dd474443.chunk.js"
+  ]
+}
